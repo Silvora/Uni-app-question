@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/Start/Start",
+    "pages/End/End"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabBar/icon_index-l.png",
+        "selectedIconPath": "static/tabBar/icon_index.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/Start/Start",
+        "iconPath": "static/tabBar/wangye.png",
+        "selectedIconPath": "static/tabBar/wangye_1.png",
+        "text": "前端"
+      },
+      {
+        "pagePath": "pages/End/End",
+        "iconPath": "static/tabBar/kaifa.png",
+        "selectedIconPath": "static/tabBar/kaifa_1.png",
+        "text": "后端"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

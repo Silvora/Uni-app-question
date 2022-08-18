@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.cover-content {
+  background-color: rgba(0, 0, 0, 0.4);
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  position: absolute;
+  bottom: 0;
+}
+.cover-image {
+  display: block;
+  width: 100%;
+}
+

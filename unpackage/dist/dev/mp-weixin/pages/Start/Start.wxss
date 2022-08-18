@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.list_box {
+  background-color: #ccc;
+}
+.uni-section {
+  margin-bottom: 30rpx;
+}
+.uni-section .uni-section-header {
+  border-bottom: 1px solid #ccc;
+}
+
